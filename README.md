@@ -1,24 +1,2 @@
 # mental-health-chatbot
 
-mental_health_chatbot/
-
-
-basic structure 
-
-── app/
-   ── __init__.py
-   ── chatbot.py
-   ── utils.py
-
-── static/
-   ── css/
-      ── style.css
-   ── js/
-       ── script.js
-
-── templates/
-   ── index.html
-
-── requirements.txt
-
-── README.md
